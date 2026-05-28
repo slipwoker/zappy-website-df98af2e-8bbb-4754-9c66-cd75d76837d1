@@ -1,0 +1,78 @@
+# פאפא פס - כולם מספר 1 — Generative Engine Optimization Map
+
+> https://www.facebook.com/profile.php?id=61580380956195
+
+---
+
+## Pages
+
+### בית
+https://1-df98af2e.zappy5.app
+פאפא פס - כולם מספר 1 מביאים לכם את הפעילויות הכי שוות לילדים בישראל! טיולים, אירועים ובילויים שלא תשכחו. הצטרפו עכשיו ותגלו למה כולם מספר 1!
+
+### תוכניות
+https://1-df98af2e.zappy5.app/programs
+גלו את מגוון התוכניות המיוחדות של פאפא פס - טיולים לבתי ספר מאורגנים, פעילויות לילדים בישראל ואירועים מותאמים אישית. הירשמו עוד היום ותנו לילדים חוויה אמיתית!
+
+### אודות
+https://1-df98af2e.zappy5.app/about
+למדו על הצוות המסור של פאפא פס שהפך אלפי ילדים ועובדים לחיוכים! אנחנו מאמינים שכל אחד ראוי לחוויה מושלמת. גלו את הערכים, החזון והאנשים שמאחורי פאפא פס כולם מספר 1.
+
+### צור קשר
+https://1-df98af2e.zappy5.app/contact
+רוצים לארגן אירועי חברה לעובדים בישראל או טיול לבית הספר? צוות פאפא פס זמין עבורכם! צרו קשר עכשיו ונתאים לכם את החוויה המושלמת שתיזכרו בה לנצח.
+
+## Legal & Policy
+
+### Privacy Policy
+https://1-df98af2e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://1-df98af2e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://1-df98af2e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://1-df98af2e.zappy5.app/contact
+- Endpoint: https://1-df98af2e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פאפא פס - כולם מספר 1
+https://www.facebook.com/profile.php?id=61580380956195
+
+## Target Audience
+- משפחות עם ילדים צעירים
+- מארגני טיולי בית ספר
+- מארגני אירועים עסקיים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://1-df98af2e.zappy5.app/sitemap.xml
+- Robots: https://1-df98af2e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://1-df98af2e.zappy5.app/llms-full.txt
