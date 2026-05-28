@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://1-df98af2e.zappy5.app
+https://example.com
 פאפא פס - כולם מספר 1 מביאים לכם את הפעילויות הכי שוות לילדים בישראל! טיולים, אירועים ובילויים שלא תשכחו. הצטרפו עכשיו ותגלו למה כולם מספר 1!
 
 ### תוכניות
-https://1-df98af2e.zappy5.app/programs
+https://example.com/programs
 גלו את מגוון התוכניות המיוחדות של פאפא פס - טיולים לבתי ספר מאורגנים, פעילויות לילדים בישראל ואירועים מותאמים אישית. הירשמו עוד היום ותנו לילדים חוויה אמיתית!
 
 ### אודות
-https://1-df98af2e.zappy5.app/about
+https://example.com/about
 למדו על הצוות המסור של פאפא פס שהפך אלפי ילדים ועובדים לחיוכים! אנחנו מאמינים שכל אחד ראוי לחוויה מושלמת. גלו את הערכים, החזון והאנשים שמאחורי פאפא פס כולם מספר 1.
 
 ### צור קשר
-https://1-df98af2e.zappy5.app/contact
+https://example.com/contact
 רוצים לארגן אירועי חברה לעובדים בישראל או טיול לבית הספר? צוות פאפא פס זמין עבורכם! צרו קשר עכשיו ונתאים לכם את החוויה המושלמת שתיזכרו בה לנצח.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://1-df98af2e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://1-df98af2e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://1-df98af2e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://1-df98af2e.zappy5.app/contact
-- Endpoint: https://1-df98af2e.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://1-df98af2e.zappy5.app/sitemap.xml
-- Robots: https://1-df98af2e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://1-df98af2e.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
